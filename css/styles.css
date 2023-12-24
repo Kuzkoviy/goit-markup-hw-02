@@ -163,7 +163,7 @@ letter-spacing: 0.02em;
 
 .text-btn:hover,
 .text-btn:focus{
-    background-color: #404BBF;
+    color: #404BBF;
 }
 
 .description-title {
