@@ -71,7 +71,10 @@ letter-spacing: 0.04em;
 line-height: 1.5;
 font-weight: 500;
 }
-
+.hero-button:hover,
+.hero-button:focus{
+   background-color:#404BBF;
+}
 .description-section {
     background: #fff;
 }
@@ -159,11 +162,6 @@ font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
-}
-
-.text-btn:hover,
-.text-btn:focus{
-    color: #404BBF;
 }
 
 .description-title {
