@@ -69,6 +69,7 @@ cursor: pointer;
 color:#ffffff;
 letter-spacing: 0.04em;
 line-height: 1.5;
+font-weight: 500;
 }
 
 .description-section {
@@ -160,5 +161,5 @@ letter-spacing: 0.02em;
 
 .text-btn:hover,
 .text-btn:focus{
-    background-color: #2E2F42;
+    background-color: #404BBF;
 }
