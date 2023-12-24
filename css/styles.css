@@ -66,6 +66,8 @@ letter-spacing: 0.02;
 .hero-button {
 background:#4D5AE5;
 cursor: pointer;
+color:#ffffff;
+letter-spacing: 0.04em;
 }
 
 .description-section {
